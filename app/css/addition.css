@@ -1,0 +1,44 @@
+body {
+    font-family: "helvetica neue";
+    color: #3C3C3D;
+    background-color: #f2f4f7;
+    
+    text-align: center;
+}
+img {
+  width: 200px;
+}
+.hide {
+  display: none;
+}
+h1{
+	text-align: center;
+	margin-top: 3%;
+	border-bottom: 1px solid #3C3C3D;
+	border-bottom-width: 60%;
+}
+main{
+	margin-top: 3%;
+}
+.inputt{
+	margin-top: 2%;
+	font-size: 2em;
+
+	
+}
+input{
+	height: 1.4em;
+	width: 4em;
+	text-align: center;
+
+}
+#fade{
+	display: none;
+}
+.button{
+	background-color: #4CAF50;
+	border: none;
+	color: white;
+	text-decoration: none;
+	font-size: 18px;
+}
